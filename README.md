@@ -20,3 +20,4 @@ Keywords: contrative learnng, self-supervise learning, transfer learning,  pretr
 Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain recommendation
 
 We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
+https://github.com/fajieyuan/recommendation_dataset_pretraining
