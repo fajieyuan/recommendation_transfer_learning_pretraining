@@ -23,7 +23,7 @@ Keywords: self-supervise learning, lifelong learning, pretraining, transfer lear
 
 (1) We are the first to propose universal lifelong user representation learning mechanism for recommender system
 
-(2) We are the first to clear demonstrate the catastrophic forgetting and over-parameterization issues in recommender sytem.
+(2) We are the first to clearly demonstrate the catastrophic forgetting and over-parameterization issues in recommender sytem.
 
 (3) We release the dataset for lifelong user representation learning and source code.
 
