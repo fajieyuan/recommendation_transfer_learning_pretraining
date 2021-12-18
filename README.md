@@ -7,11 +7,11 @@ Several of our research papers that apply pre-training, transfer learning and re
 
 Keywords: self-supervise learning, user sequential behaviors, pretraining, transfer learning, user representation, user profile prediction, cold-start problem
 
-We are the first to evidence that self-supervised user behavior pre-training helps many downstream tasks. 
+(1) We are the first to evidence that self-supervised user behavior pre-training helps many downstream tasks. 
 
-We are also the first to provide user profile prediction as a way to show the universal property of user representation
+(2) We are also the first to provide user profile prediction as a way to show the universal property of user representation
 
-We release a large-scale public dataset for user representation transer learning and source code.
+(3) We release a large-scale public dataset for user representation transer learning and source code.
 
 
 Inductive transfer learning has had a big impact on computer vision and NLP domains but has not been used in the area of recommender systems. Even though there has been a large body of research on generating recommendations based on modeling user-item interaction sequences, few of them attempt to represent and transfer these models for serving downstream tasks where only limited data exists.  In this paper, we delve on the task of effectively learning a single user representation that can be applied to a diversity of tasks, from cross-domain recommendations to user profile predictions. Fine-tuning a large pre-trained network and adapting it to downstream tasks is an effective way to solve such tasks. However, fine-tuning is parameter inefficient considering that an entire model needs to be re-trained for every new task. To overcome this issue, we develop a parameter efficient transfer learning architecture, termed as PeterRec, which can be configured on-the-fly to various downstream tasks. Specifically, PeterRec allows the pre-trained parameters to remain unaltered during fine-tuning by injecting a series of re-learned neural networks, which are small but as expressive as learning the entire network. We perform extensive experimental ablation to show the effectiveness of the learned user representation in five downstream tasks. Moreover, we show that PeterRec performs efficient transfer learning in multiple domains, where it achieves comparable or sometimes better performance relative to fine-tuning the entire model parameters. Codes and datasets are available at this https URL
@@ -21,11 +21,11 @@ Inductive transfer learning has had a big impact on computer vision and NLP doma
 
 Keywords: self-supervise learning, lifelong learning, pretraining, transfer learning, finetuning, user representation, user profile prediction, cold-start problem
 
-We are the first to propose universal lifelong user representation learning mechanism for recommender system
+(1) We are the first to propose universal lifelong user representation learning mechanism for recommender system
 
-We are the first to clear demonstrate the catastrophic forgetting and over-parameterization issues in recommender sytem.
+(2) We are the first to clear demonstrate the catastrophic forgetting and over-parameterization issues in recommender sytem.
 
-We release the dataset for lifelong user representation learning and source code.
+(3) We release the dataset for lifelong user representation learning and source code.
 
 
 Learning user representations is a vital technique toward effective user modeling and personalized recommender systems. Existing approaches often derive an individual set of model parameters for each task by training on separate data. However, the representation of the same user potentially has some commonalities, such as preference and personality, even in different tasks. As such, these separately trained representations could be suboptimal in performance as well as inefficient in terms of parameter sharing. 
