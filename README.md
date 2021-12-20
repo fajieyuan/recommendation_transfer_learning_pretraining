@@ -1,5 +1,5 @@
 # recommendation_transfer_learning_pretraining
-Pre-training and Transfer learning papers and datasets for recommendation and universal user representations
+Pre-training and Transfer learning papers for recommendation and universal user representations
 
 Several of our research papers that apply pre-training, transfer learning and representation learning for cross-domain recommendation and user profile prediction:
 
