@@ -1,7 +1,7 @@
 # recommendation_transfer_learning_pre-training
 Pre-training and Transfer learning papers for recommendation and universal user representations
 
-Several of our research papers that apply pre-training, transfer learning and representation learning for cross-domain recommendation and user profile prediction:
+Several of our research papers that apply pre-training （BERT、Transformer Style）, transfer learning and representation learning for cross-domain recommendation and user profile prediction:
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253
 
