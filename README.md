@@ -46,7 +46,7 @@ Making accurate recommendations for cold-start users has been a longstanding and
 
 5 TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback       Arxiv: https://arxiv.org/pdf/2206.06190.pdf
 
-# This is my one of my favorite paper.
+## This is my one of my favorite paper.
 
 Keywords: tranfer learning, pre-training, mixture-of-modality, content-based recommendation, general-purpose recommender system
 
