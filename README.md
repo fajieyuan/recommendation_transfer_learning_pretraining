@@ -44,6 +44,17 @@ Keywords: adaptive finetuning, pretraining, cold-start problem, cross-domain rec
 
 Making accurate recommendations for cold-start users has been a longstanding and critical challenge for recommender systems (RS). Cross-domain recommendations (CDR) offer a solution to tackle such a cold-start problem when there is no sufficient data for the users who have rarely used the system. An effective approach in CDR is to leverage the knowledge (e.g., user representations) learned from a related but different domain and transfer it to the target domain. Fine-tuning works as an effective transfer learning technique for this objective, which adapts the parameters of a pre-trained model from the source domain to the target domain. However, current methods are mainly based on the global fine-tuning strategy: the decision of which layers of the pre-trained model to freeze or fine-tune is taken for all users in the target domain. In this paper, we argue that users in RS are personalized and should have their own fine-tuning policies for better preference transfer learning. As such, we propose a novel User-specific Adaptive Fine-tuning method (UAF), selecting which layers of the pre-trained network to fine-tune, on a per-user basis. Specifically, we devise a policy network with three alternative strategies to automatically decide which layers to be fine-tuned and which layers to have their parameters frozen for each user. Extensive experiments show that the proposed UAF exhibits significantly better and more robust performance for user cold-start recommendation.
 
+5 TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback       Arxiv: https://arxiv.org/pdf/2206.06190.pdf
+
+Keywords: tranfer learning, pre-training, mixture-of-modality, content-based recommendation, general-purpose recommender system
+
+Learning big models and then transfer has become the de facto practice in computer vision (CV) and natural language processing (NLP). However, such unified
+paradigm is uncommon for recommender systems (RS). A critical issue that hampers this is that standard recommendation models are built on unshareable identity
+data, where both users and their interacted items are represented by unique IDs. In this paper, we study a novel scenario where user’s interaction feedback involves
+mixture-of-modality (MoM) items. We present TransRec, a straightforward modification done on the popular ID-based RS framework. TransRec directly learns
+from MoM feedback in an end-to-end manner, and thus enables effective transfer  learning under various scenarios without relying on overlapped users or items.
+We empirically study the transferring ability of TransRec across four different real-world recommendation settings. Besides, we study its effects by scaling the size of source and target data. Our results suggest that learning recommenders from MoM feedback provides a promising way to realize universal recommender systems. Our code and datasets will be made available.
+
 
 We have also released large-scale dataset (over 1 million user clicking behaviors) for performing transfer learning of user preference in recommendation field
 https://github.com/fajieyuan/recommendation_dataset_pretraining
