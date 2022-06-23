@@ -46,6 +46,8 @@ Making accurate recommendations for cold-start users has been a longstanding and
 
 5 TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback       Arxiv: https://arxiv.org/pdf/2206.06190.pdf
 
+# This is my one of my favorite paper.
+
 Keywords: tranfer learning, pre-training, mixture-of-modality, content-based recommendation, general-purpose recommender system
 
 Learning big models and then transfer has become the de facto practice in computer vision (CV) and natural language processing (NLP). However, such unified
