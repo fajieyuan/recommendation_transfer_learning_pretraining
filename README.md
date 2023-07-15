@@ -1,7 +1,5 @@
-# recommendation_transfer_learning_pre-training
-Pre-training and Transfer learning papers for recommendation and universal user representations
+# recommendation_transfer_learning_pre-training:  https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
-More paper list： https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253
 
