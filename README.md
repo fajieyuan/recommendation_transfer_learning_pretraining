@@ -2,7 +2,6 @@
 
 https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
-https://github.com/nancheng58/Awesome-LLM4RS-Papers
 
 https://github.com/archersama/awesome-recommend-system-pretraining-papers
 
