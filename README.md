@@ -3,8 +3,6 @@
 https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
 
-https://github.com/archersama/awesome-recommend-system-pretraining-papers
-
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253
 
