@@ -2,7 +2,8 @@
 
 ## Move to the New Link： https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
-##Three Large-scale datasets for evaluating multimodal and cross-domain recommendation
+## Three Large-scale datasets for evaluating multimodal and cross-domain recommendation
+
 (1) PixelRec: https://github.com/westlake-repl/PixelRec
 
 (2) NineRec: https://github.com/westlake-repl/NineRec
