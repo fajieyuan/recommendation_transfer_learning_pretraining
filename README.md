@@ -2,6 +2,15 @@
 
 ## Move to the New Link： https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
+##Three Large-scale datasets for evaluating multimodal and cross-domain recommendation
+(1) PixelRec: https://github.com/westlake-repl/PixelRec
+
+(2) NineRec: https://github.com/westlake-repl/NineRec
+
+(3) MicroLens: https://github.com/westlake-repl/MicroLens
+
+(4) Tenrec: https://github.com/yuangh-x/2022-NIPS-Tenrec
+
 
 
 1 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation SIGIR2020 https://arxiv.org/abs/2001.04253
